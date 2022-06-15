@@ -1,0 +1,30 @@
+/home/nata/Documentos/code/C#/NovoProject/bin/Debug/net6.0/NovoProject
+/home/nata/Documentos/code/C#/NovoProject/bin/Debug/net6.0/NovoProject.deps.json
+/home/nata/Documentos/code/C#/NovoProject/bin/Debug/net6.0/NovoProject.runtimeconfig.json
+/home/nata/Documentos/code/C#/NovoProject/bin/Debug/net6.0/NovoProject.dll
+/home/nata/Documentos/code/C#/NovoProject/bin/Debug/net6.0/ref/NovoProject.dll
+/home/nata/Documentos/code/C#/NovoProject/bin/Debug/net6.0/NovoProject.pdb
+/home/nata/Documentos/code/C#/NovoProject/obj/Debug/net6.0/NovoProject.csproj.AssemblyReference.cache
+/home/nata/Documentos/code/C#/NovoProject/obj/Debug/net6.0/NovoProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/nata/Documentos/code/C#/NovoProject/obj/Debug/net6.0/NovoProject.AssemblyInfoInputs.cache
+/home/nata/Documentos/code/C#/NovoProject/obj/Debug/net6.0/NovoProject.AssemblyInfo.cs
+/home/nata/Documentos/code/C#/NovoProject/obj/Debug/net6.0/NovoProject.csproj.CoreCompileInputs.cache
+/home/nata/Documentos/code/C#/NovoProject/obj/Debug/net6.0/NovoProject.dll
+/home/nata/Documentos/code/C#/NovoProject/obj/Debug/net6.0/ref/NovoProject.dll
+/home/nata/Documentos/code/C#/NovoProject/obj/Debug/net6.0/NovoProject.pdb
+/home/nata/Documentos/code/C#/NovoProject/obj/Debug/net6.0/NovoProject.genruntimeconfig.cache
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\bin\Debug\net6.0\NovoProject.exe
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\bin\Debug\net6.0\NovoProject.deps.json
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\bin\Debug\net6.0\NovoProject.runtimeconfig.json
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\bin\Debug\net6.0\NovoProject.dll
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\bin\Debug\net6.0\NovoProject.pdb
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\obj\Debug\net6.0\NovoProject.csproj.AssemblyReference.cache
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\obj\Debug\net6.0\NovoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\obj\Debug\net6.0\NovoProject.AssemblyInfoInputs.cache
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\obj\Debug\net6.0\NovoProject.AssemblyInfo.cs
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\obj\Debug\net6.0\NovoProject.csproj.CoreCompileInputs.cache
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\obj\Debug\net6.0\NovoProject.dll
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\obj\Debug\net6.0\refint\NovoProject.dll
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\obj\Debug\net6.0\NovoProject.pdb
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\obj\Debug\net6.0\NovoProject.genruntimeconfig.cache
+C:\Users\natao\OneDrive\Área de Trabalho\Faculdade\code\C#\NovoProject\obj\Debug\net6.0\ref\NovoProject.dll
